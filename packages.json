@@ -4,12 +4,24 @@
     "url": "https://github.com/rOpenGov/eurostat"
   },
   {
+    "package": "regions",
+    "url": "https://github.com/rOpenGov/regions"
+  },
+  {
     "package": "giscoR",
     "url": "https://github.com/rOpenGov/giscoR"
   },
   {
     "package": "hetu",
     "url": "https://github.com/rOpenGov/hetu"
+  }, 
+  {
+    "package": "retroharmonize",
+    "url": "https://github.com/rOpenGov/retroharmonize"
+  },
+  {
+    "package": "iotables",
+    "url": "https://github.com/rOpenGov/iotables"
   }
 ]
 
