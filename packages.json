@@ -22,6 +22,14 @@
   {
     "package": "iotables",
     "url": "https://github.com/rOpenGov/iotables"
+  },
+  {
+    "package": "geofi",
+    "url": "https://github.com/rOpenGov/geofi"
+  },
+  {
+    "package": "rqog",
+    "url": "https://github.com/rOpenGov/rqog"
   }
 ]
 
