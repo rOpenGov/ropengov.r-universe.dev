@@ -30,6 +30,10 @@
   {
     "package": "rqog",
     "url": "https://github.com/rOpenGov/rqog"
+  },
+  {
+    "package": "rogtemplate",
+    "url": "https://github.com/rOpenGov/rogtemplate"
   }
 ]
 
