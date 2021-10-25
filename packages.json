@@ -38,6 +38,10 @@
   {
     "package": "RPublica",
     "url": "https://github.com/rOpenGov/RPublica"
+  },
+  {
+    "package": "ogdindiar",
+    "url": "https://github.com/rOpenGov/ogdindiar"
   }
 ]
 
