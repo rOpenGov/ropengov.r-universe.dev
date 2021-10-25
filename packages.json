@@ -34,6 +34,10 @@
   {
     "package": "rogtemplate",
     "url": "https://github.com/rOpenGov/rogtemplate"
+  },
+  {
+    "package": "RPublica",
+    "url": "https://github.com/rOpenGov/RPublica"
   }
 ]
 
