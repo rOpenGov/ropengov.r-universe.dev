@@ -42,6 +42,10 @@
   {
     "package": "ogdindiar",
     "url": "https://github.com/rOpenGov/ogdindiar"
+  },
+  {
+    "package": "sorvi",
+    "url": "https://github.com/rOpenGov/sorvi"
   }
 ]
 
