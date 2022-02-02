@@ -46,6 +46,10 @@
   {
     "package": "sorvi",
     "url": "https://github.com/rOpenGov/sorvi"
+  },
+  {
+    "package": "sotkanet",
+    "url": "https://github.com/rOpenGov/sotkanet"
   }
 ]
 
