@@ -50,6 +50,10 @@
   {
     "package": "sotkanet",
     "url": "https://github.com/rOpenGov/sotkanet"
+  },
+  {
+    "package": "helsinki",
+    "url": "https://github.com/rOpenGov/helsinki"
   }
 ]
 
