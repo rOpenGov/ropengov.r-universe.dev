@@ -56,6 +56,10 @@
     "url": "https://github.com/rOpenGov/usdoj"
   },
   {
+    "package": "oldbailey",
+    "url": "https://github.com/rOpenGov/oldbailey"
+  },
+  {
     "package": "helsinki",
     "url": "https://github.com/rOpenGov/helsinki"
   }
