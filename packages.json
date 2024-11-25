@@ -62,6 +62,10 @@
   {
     "package": "helsinki",
     "url": "https://github.com/rOpenGov/helsinki"
+  },
+  {
+    "package": "geodk",
+    "url": "https://github.com/rOpenGov/geodk"
   }
 ]
 
