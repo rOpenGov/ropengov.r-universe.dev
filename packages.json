@@ -66,6 +66,10 @@
   {
     "package": "geodk",
     "url": "https://github.com/rOpenGov/geodk"
+  },
+  {
+    "package": "dkstat",
+    "url": "https://github.com/rOpenGov/dkstat"
   }
 ]
 
