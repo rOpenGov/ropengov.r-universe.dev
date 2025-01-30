@@ -32,6 +32,10 @@
     "url": "https://github.com/rOpenGov/fmi2"
   },
   {
+    "package": "geodk",
+    "url": "https://github.com/rOpenGov/geodk"
+  },
+  {
     "package": "geofi",
     "url": "https://github.com/rOpenGov/geofi"
   },
@@ -100,12 +104,20 @@
     "url": "https://github.com/rOpenGov/retroharmonize"
   },
   {
+    "package": "rogtemplate",
+    "url": "https://github.com/rOpenGov/rogtemplate"
+  },
+  {
     "package": "rqog",
     "url": "https://github.com/rOpenGov/rqog"
   },
   {
     "package": "rwfs",
     "url": "https://github.com/rOpenGov/rwfs"
+  },
+  {
+    "package": "sorvi",
+    "url": "https://github.com/rOpenGov/sorvi"
   },
   {
     "package": "sotkanet",
