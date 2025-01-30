@@ -16,10 +16,6 @@
     "url": "https://github.com/rOpenGov/europarl"
   },
   {
-    "package": "europarl",
-    "url": "https://github.com/rOpenGov/europarl"
-  },
-  {
     "package": "eurostat",
     "url": "https://github.com/rOpenGov/eurostat"
   },
