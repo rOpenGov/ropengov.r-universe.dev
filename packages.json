@@ -1,75 +1,130 @@
 [
   {
+    "package": "RPublica",
+    "url": "https://github.com/rOpenGov/RPublica"
+  },
+  {
+    "package": "digitransit",
+    "url": "https://github.com/rOpenGov/digitransit"
+  },
+  {
+    "package": "dkstat",
+    "url": "https://github.com/rOpenGov/dkstat"
+  },
+  {
+    "package": "europarl",
+    "url": "https://github.com/rOpenGov/europarl"
+  },
+  {
+    "package": "europarl",
+    "url": "https://github.com/rOpenGov/europarl"
+  },
+  {
     "package": "eurostat",
     "url": "https://github.com/rOpenGov/eurostat"
   },
   {
-    "package": "regions",
-    "url": "https://github.com/rOpenGov/regions"
+    "package": "federalregister",
+    "url": "https://github.com/rOpenGov/federalregister"
   },
   {
-    "package": "giscoR",
-    "url": "https://github.com/rOpenGov/giscoR"
-  },
-  {
-    "package": "hetu",
-    "url": "https://github.com/rOpenGov/hetu"
-  }, 
-  {
-    "package": "retroharmonize",
-    "url": "https://github.com/rOpenGov/retroharmonize"
-  },
-  {
-    "package": "iotables",
-    "url": "https://github.com/rOpenGov/iotables"
+    "package": "fmi2",
+    "url": "https://github.com/rOpenGov/fmi2"
   },
   {
     "package": "geofi",
     "url": "https://github.com/rOpenGov/geofi"
   },
   {
-    "package": "rqog",
-    "url": "https://github.com/rOpenGov/rqog"
+    "package": "giscoR",
+    "url": "https://github.com/rOpenGov/giscoR"
   },
   {
-    "package": "rogtemplate",
-    "url": "https://github.com/rOpenGov/rogtemplate"
-  },
-  {
-    "package": "RPublica",
-    "url": "https://github.com/rOpenGov/RPublica"
-  },
-  {
-    "package": "ogdindiar",
-    "url": "https://github.com/rOpenGov/ogdindiar"
-  },
-  {
-    "package": "sorvi",
-    "url": "https://github.com/rOpenGov/sorvi"
-  },
-  {
-    "package": "sotkanet",
-    "url": "https://github.com/rOpenGov/sotkanet"
-  },
-  {
-    "package": "usdoj",
-    "url": "https://github.com/rOpenGov/usdoj"
-  },
-  {
-    "package": "oldbailey",
-    "url": "https://github.com/rOpenGov/oldbailey"
+    "package": "hansard",
+    "url": "https://github.com/rOpenGov/hansard"
   },
   {
     "package": "helsinki",
     "url": "https://github.com/rOpenGov/helsinki"
   },
   {
-    "package": "geodk",
-    "url": "https://github.com/rOpenGov/geodk"
+    "package": "hetu",
+    "url": "https://github.com/rOpenGov/hetu"
   },
   {
-    "package": "dkstat",
-    "url": "https://github.com/rOpenGov/dkstat"
+    "package": "iotables",
+    "url": "https://github.com/rOpenGov/iotables"
+  },
+  {
+    "package": "kelaopendata",
+    "url": "https://github.com/rOpenGov/kelaopendata"
+  },
+  {
+    "package": "mpg",
+    "url": "https://github.com/rOpenGov/mpg"
+  },
+  {
+    "package": "ogdindiar",
+    "url": "https://github.com/rOpenGov/ogdindiar"
+  },
+  {
+    "package": "oldbailey",
+    "url": "https://github.com/rOpenGov/oldbailey"
+  },
+  {
+    "package": "openthl",
+    "url": "https://github.com/rOpenGov/openthl"
+  },
+  {
+    "package": "pollstR",
+    "url": "https://github.com/rOpenGov/pollstR"
+  },
+  {
+    "package": "psData",
+    "url": "https://github.com/rOpenGov/psData"
+  },
+  {
+    "package": "pxweb",
+    "url": "https://github.com/rOpenGov/pxweb"
+  },
+  {
+    "package": "r311",
+    "url": "https://github.com/rOpenGov/r311"
+  },
+  {
+    "package": "regions",
+    "url": "https://github.com/rOpenGov/regions"
+  },
+  {
+    "package": "retroharmonize",
+    "url": "https://github.com/rOpenGov/retroharmonize"
+  },
+  {
+    "package": "rqog",
+    "url": "https://github.com/rOpenGov/rqog"
+  },
+  {
+    "package": "rwfs",
+    "url": "https://github.com/rOpenGov/rwfs"
+  },
+  {
+    "package": "sotkanet",
+    "url": "https://github.com/rOpenGov/sotkanet"
+  },
+  {
+    "package": "sweidnumbr",
+    "url": "https://github.com/rOpenGov/sweidnumbr"
+  },
+  {
+    "package": "usbroadband",
+    "url": "https://github.com/rOpenGov/usbroadband"
+  },
+  {
+    "package": "usdoj",
+    "url": "https://github.com/rOpenGov/usdoj"
+  },
+  {
+    "package": "vipunen",
+    "url": "https://github.com/rOpenGov/vipunen"
   }
 ]
-
