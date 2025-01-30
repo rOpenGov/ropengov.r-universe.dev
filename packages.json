@@ -24,6 +24,10 @@
     "url": "https://github.com/rOpenGov/federalregister"
   },
   {
+    "package": "finna",
+    "url": "https://github.com/rOpenGov/finna"
+  },
+  {
     "package": "fmi2",
     "url": "https://github.com/rOpenGov/fmi2"
   },
