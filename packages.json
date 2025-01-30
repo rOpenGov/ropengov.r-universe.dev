@@ -80,10 +80,6 @@
     "url": "https://github.com/rOpenGov/openthl"
   },
   {
-    "package": "pollstR",
-    "url": "https://github.com/rOpenGov/pollstR"
-  },
-  {
     "package": "psData",
     "url": "https://github.com/rOpenGov/psData"
   },
@@ -126,10 +122,6 @@
   {
     "package": "sweidnumbr",
     "url": "https://github.com/rOpenGov/sweidnumbr"
-  },
-  {
-    "package": "usbroadband",
-    "url": "https://github.com/rOpenGov/usbroadband"
   },
   {
     "package": "usdoj",
