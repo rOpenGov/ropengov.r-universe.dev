@@ -68,6 +68,10 @@
     "url": "https://github.com/rOpenGov/mpg"
   },
   {
+    "package": "noaa",
+    "url": "https://github.com/rOpenGov/noaa"
+  },
+  {
     "package": "ogdindiar",
     "url": "https://github.com/rOpenGov/ogdindiar"
   },
