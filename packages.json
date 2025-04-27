@@ -68,6 +68,10 @@
     "url": "https://github.com/rOpenGov/mpg"
   },
   {
+    "package": "nasa",
+    "url": "https://github.com/rOpenGov/nasa"
+  },
+  {
     "package": "noaa",
     "url": "https://github.com/rOpenGov/noaa"
   },
