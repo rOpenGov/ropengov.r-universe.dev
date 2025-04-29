@@ -132,6 +132,10 @@
     "url": "https://github.com/rOpenGov/sweidnumbr"
   },
   {
+    "package": "uscongress",
+    "url": "https://github.com/rOpenGov/uscongress"
+  },
+  {
     "package": "usdoj",
     "url": "https://github.com/rOpenGov/usdoj"
   },
