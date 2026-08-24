@@ -4,6 +4,10 @@
     "url": "https://github.com/rOpenGov/RPublica"
   },
   {
+    "package": "californiaalw",
+    "url": "https://github.com/asafichaki/californiaalw"
+  },
+  {
     "package": "digitransit",
     "url": "https://github.com/rOpenGov/digitransit"
   },
