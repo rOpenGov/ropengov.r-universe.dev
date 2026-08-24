@@ -92,6 +92,10 @@
     "url": "https://github.com/rOpenGov/openthl"
   },
   {
+    "package": "permittimelines",
+    "url": "https://github.com/asafichaki/permittimelines"
+  },
+  {
     "package": "psData",
     "url": "https://github.com/rOpenGov/psData"
   },
